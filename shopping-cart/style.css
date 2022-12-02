@@ -1,0 +1,60 @@
+#header-content {
+    color:blue;
+      text-align:center;
+    }
+    img {
+        float: left;
+
+    width:10rem;
+      height:10rem;
+    }
+    #goods-list {
+      list-style:none;
+    }
+    .cart-icon {
+      height:3rem;
+    width:3rem;
+    }
+    .goods-item {
+      width:30%;
+    }
+
+#header-content {
+    color:blue;
+      text-align:center;
+    }
+    img {
+    width:10rem;
+      height:10rem;
+    }
+#goods-list {
+      list-style:none;
+    }
+.cart-icon {
+      height:3rem;
+    width:3rem;
+    }
+
+.goods-item {
+      width:30%; 
+    /* TODO:use flex to complete this part */
+
+    } 
+
+.box {
+        font-size: 5rem;
+        display: flex;
+        justify-content: space-between;
+    }
+
+.goods-item-two {
+        width:30%;
+    }
+.float-item{
+        float:left;
+    }
+.container {
+    /* TODO:use grid to complete this part */
+      
+        }
+        
